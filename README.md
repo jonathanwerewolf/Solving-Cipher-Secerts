@@ -6,8 +6,10 @@ Flynn's Fiction Detective Weekly, edited M. E. Ohaver.
 
 # Nihilist Numerical Cipher
 https://toebes.com/Flynns/Flynns-19250328.htm
+
 Encode using grid key and secondary key word in pandas.
 
 # Biliteral Cipher
 https://toebes.com/Flynns/Flynns-19250425.htm
+
 Encode binary message in carrier text using italics (italic text output must be supported).
